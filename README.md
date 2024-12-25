@@ -1,6 +1,11 @@
 # CUDA Programming
 
-Practice of cuda programming according to \<\<[programming massively parallel processors 4th](/Programming%20Massively%20Parallel%20Processors-%20A%20Hands-on%20--%20Wen-mei%20W_%20Hwu,%20David%20B_%20Kirk,%20Izzat%20El%20Hajj,%20Ph_D_%20--%204th,%202023%20--%20Morgan%20Kaufmann.pdf)\>\>, also refer to [CUDA MODE](https://github.com/cuda-mode/lectures) series.
+## Introduction
+Practice of cuda programming.
+
+## Reference
+1. Book: [Programming Massively Parallel Processors 4th(PMPP)](/Programming%20Massively%20Parallel%20Processors-%20A%20Hands-on%20--%20Wen-mei%20W_%20Hwu,%20David%20B_%20Kirk,%20Izzat%20El%20Hajj,%20Ph_D_%20--%204th,%202023%20--%20Morgan%20Kaufmann.pdf)
+2. Lecture: [CUDA MODE](https://github.com/cuda-mode/lectures)
 
 ## Index
 1. [Ch02_Heterogeneous_data_parallel_computing](Ch02_Heterogeneous_data_parallel_computing/index.md)
