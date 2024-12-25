@@ -39,7 +39,7 @@ int main()
     }
 
     int deviceId;
-    cudaGetDevice(&deviceId); // 获取设备ID
+    cudaGetDevice(&deviceId);
 
     // data pre-fetch: 数据预取
     cudaMemPrefetchAsync(input, size, deviceId);
@@ -54,7 +54,7 @@ int main()
     // device synchronize: 设备同步
     cudaDeviceSynchronize();
 
-    // 检查是否有错误发生
+    // check for errors: 检查错误
     cudaError_t err = cudaGetLastError();
     if (err != cudaSuccess)
     {
