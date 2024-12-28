@@ -18,7 +18,7 @@ Practice of cuda programming.
 7. ipykernel==6.29.5
 
 ## Index
-1. [L001_How_to_profile_cuda_kernels_in_pytorch](L001_How_to_profile_cuda_kernels_in_pytorch\index.md)
+1. [L001_How_to_profile_cuda_kernels_in_pytorch](L001_How_to_profile_cuda_kernels_in_pytorch/index.md)
 2. [Ch02_Heterogeneous_data_parallel_computing](Ch02_Heterogeneous_data_parallel_computing/index.md)
 3. [L002_Ch1-3_PMPP_book](L002_Ch1-3_PMPP_book/index.md)
 4. [Ch03_Multidimensional_grids_and_data](Ch03_Multidimensional_grids_and_data/index.md)
